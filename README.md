@@ -11,5 +11,6 @@ h-swish替代RELU6激活函数：
 <img width="1040" height="440" alt="image" src="https://github.com/user-attachments/assets/5397f1e7-4d5b-444b-aecd-c882c1d26440" />
 
 整体网络（分大与小）：
-<img width="659" height="573" alt="image" src="https://github.com/user-attachments/assets/7cf82333-5147-47bf-8056-ab99b9d2dd10" />
-<img width="570" height="425" alt="image" src="https://github.com/user-attachments/assets/a543b2f6-429e-4dc0-a6c6-3401111a9338" />
+<img width="631" height="630" alt="image" src="https://github.com/user-attachments/assets/ccf03974-3b12-4fc7-87e7-2a64a2fd8b98" />
+<img width="631" height="471" alt="image" src="https://github.com/user-attachments/assets/61fa3a02-6ae7-4f92-a7f6-7a70dd9a9aa7" />
+
