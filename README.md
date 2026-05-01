@@ -5,6 +5,7 @@
 ### 结果 | Result
 
 <img width="941" height="335" alt="image" src="https://github.com/user-attachments/assets/200ed517-98f1-4229-a74d-c38cd27d3fa7" />
+<img width="2480" height="1914" alt="mobilenetv3_training_curve" src="https://github.com/user-attachments/assets/d5627c56-e16b-4019-bd6b-f71aef30d1db" />
 
 
 ---
