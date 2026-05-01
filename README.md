@@ -58,6 +58,10 @@ Bottleneck module structure with added SE mechanism:
 Optimize the output Stage structure:
 <img width="1040" height="440" alt="image" src="https://github.com/user-attachments/assets/5397f1e7-4d5b-444b-aecd-c882c1d26440" />
 
+Non-linear startup function:
+<img width="1050" height="289" alt="image" src="https://github.com/user-attachments/assets/f2e90420-b67f-456c-9efe-3d051bafdb40" />
+
+
 Overall network (divided into large and small):
 <img width="631" height="630" alt="image" src="https://github.com/user-attachments/assets/ccf03974-3b12-4fc7-87e7-2a64a2fd8b98" />
 <img width="631" height="471" alt="image" src="https://github.com/user-attachments/assets/61fa3a02-6ae7-4f92-a7f6-7a70dd9a9aa7" />
